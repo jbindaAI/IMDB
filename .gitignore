@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+archive.zip
+IMDB_Dataset.csv
+results/BERT_ds_hidden.pkl
